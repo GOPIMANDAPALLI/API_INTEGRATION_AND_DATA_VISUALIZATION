@@ -30,8 +30,16 @@ Overall, the application showcases how real-world data can be transformed into m
   
   PHOTO-1 :
   ![Image](https://github.com/user-attachments/assets/a74ce844-7d3b-4409-b606-261923785426)
-  PHOTO-2 : 
+  PHOTO-2 :
+  ![Image](https://github.com/user-attachments/assets/df3486d7-5172-45ef-b316-069634514d7c)
+  PHOTO-3 : 
   ![Image](https://github.com/user-attachments/assets/37451ed4-2445-41ff-920e-1864fe614c78)
+
+
+
+
+
+*OUTPUT FOR WITHOUT USING MATPLOTLIB* :
 
 
 
