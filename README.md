@@ -47,6 +47,11 @@ This Python program, developed using the Matplotlib library, creates a visual re
 *OUTPUT FOR WITHOUT USING MATPLOTLIB* :
 
   PHOTO-1:
+  ![Image](https://github.com/user-attachments/assets/ac54563f-d857-4463-a48f-745cb274809c)
+  PHOTO-2:
+![Image](https://github.com/user-attachments/assets/770b3bb2-0951-4992-9269-417d440be5ca)
+  PHOTO-3:
+![Image](https://github.com/user-attachments/assets/33b24ae2-aa3f-402a-a396-06e26d42b2d6)
   
 
 
