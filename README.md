@@ -10,7 +10,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-*DESCRIPTION FOR USING MATPLOTLIB FOR TASK* :
+*DESCRIPTION FOR USING MATPLOTLIB AND USING PUBLIC API LIKE(OPENWEATHERMAP.ORG) FOR THE TASK* :
 
 This project, developed using the PyCharm Integrated Development Environment (IDE), is a beginner-level weather data visualization tool written in Python. The main objective of this project is to allow users to enter the name of a city and receive a visual representation of the current temperature in that city. It serves as an excellent introduction to working with RESTful APIs, handling JSON data, and creating basic data visualizations using Python libraries.
 
@@ -39,7 +39,7 @@ Overall, the application showcases how real-world data can be transformed into m
 
 
 
-*DESCRIPTION FOR USING MATPLOTLIB FOR TASK* :
+*DESCRIPTION FOR WITHOUT USING OPENWEATHERMAP FOR THE TASK* :
 
 This Python program, developed using the Matplotlib library, creates a visual representation of temperature data over a specific time range for a user-specified city. Upon execution, the user is prompted to enter a city name, which is then used in the chart title to personalize the output. The program uses predefined temperature and time values—six data points representing hourly temperatures from 6:00 AM to 11:00 AM. These values are stored in two lists: temperature and time. Using the matplotlib.pyplot module, a line graph is plotted with custom markers, colors, and font styles to enhance visual clarity. The graph includes a title, labeled X (Time) and Y (Temperature) axes, and a grid for better readability. Although the program does not fetch real-time data, it effectively demonstrates how to use Matplotlib to plot static data and is useful for learning how to visualize temperature trends in a simple, user-interactive way.
 
@@ -49,7 +49,7 @@ This Python program, developed using the Matplotlib library, creates a visual re
   PHOTO-1:
   ![Image](https://github.com/user-attachments/assets/ac54563f-d857-4463-a48f-745cb274809c)
   PHOTO-2:
-![Image](https://github.com/user-attachments/assets/770b3bb2-0951-4992-9269-417d440be5ca)
+  ![Image](https://github.com/user-attachments/assets/a146c90d-7f1a-46d6-97b1-e655e2ea1d49)
   PHOTO-3:
 ![Image](https://github.com/user-attachments/assets/33b24ae2-aa3f-402a-a396-06e26d42b2d6)
   
