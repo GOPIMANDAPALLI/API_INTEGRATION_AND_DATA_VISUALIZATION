@@ -44,15 +44,13 @@ Overall, the application showcases how real-world data can be transformed into m
 This Python program, developed using the Matplotlib library, creates a visual representation of temperature data over a specific time range for a user-specified city. Upon execution, the user is prompted to enter a city name, which is then used in the chart title to personalize the output. The program uses predefined temperature and time values six data points representing hourly temperatures from 6:00 AM to 11:00 AM. These values are stored in two lists: temperature and time. Using the matplotlib.pyplot module, a line graph is plotted with custom markers, colors, and font styles to enhance visual clarity. The graph includes a title, labeled X (Time) and Y (Temperature) axes, and a grid for better readability. Although the program does not fetch real-time data, it effectively demonstrates how to use Matplotlib to plot static data and is useful for learning how to visualize temperature trends in a simple, user-interactive way.
 
 
-*OUTPUT FOR WITHOUT USING MATPLOTLIB* :
+*OUTPUT FOR WITHOUT USING OPENWEATHERMAP * :
 
-  PHOTO-1:
-  ![Image](https://github.com/user-attachments/assets/ac54563f-d857-4463-a48f-745cb274809c)
-  PHOTO-2:
-  ![Image](https://github.com/user-attachments/assets/a146c90d-7f1a-46d6-97b1-e655e2ea1d49)
-  PHOTO-3:
-![Image](https://github.com/user-attachments/assets/33b24ae2-aa3f-402a-a396-06e26d42b2d6)
-  
+  PHOTO-1 :
+  ![Image](https://github.com/user-attachments/assets/ff38b49c-25fa-460d-8b06-ae93a63659c5)
+  PHOTO-2 :
+![Image](https://github.com/user-attachments/assets/28d262c4-11db-43d1-9844-414c0c9f7fe0)
+
 
 
 
