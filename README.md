@@ -49,6 +49,8 @@ This Python program, developed using the Matplotlib library, creates a visual re
   PHOTO-1 :
   ![Image](https://github.com/user-attachments/assets/ff38b49c-25fa-460d-8b06-ae93a63659c5)
   PHOTO-2 :
+  ![Image](https://github.com/user-attachments/assets/4237a4ce-72eb-4fbd-b87d-755ff1e4d630)
+  PHOTO-3 :
 ![Image](https://github.com/user-attachments/assets/28d262c4-11db-43d1-9844-414c0c9f7fe0)
 
 
