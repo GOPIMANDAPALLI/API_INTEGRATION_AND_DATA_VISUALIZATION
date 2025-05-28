@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 CITY_NAME=input("enter the city name :")
 
-#extract temperature and time
+#extract temperature and time fromm the user
 
 temperature=[25.0,21.2,10.4,32.3,15.5,30.0]
 time=[6.00,7.00,8.00,9.00,10.00,11.00]
