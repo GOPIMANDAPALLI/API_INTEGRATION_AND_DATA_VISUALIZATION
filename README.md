@@ -29,11 +29,11 @@ Overall, the application showcases how real-world data can be transformed into m
 *OUTPUT FOR USING MATPLOTLIB* :
   
   PHOTO-1 :
-  ![Image](https://github.com/user-attachments/assets/0a361a77-7a6c-43b7-9af3-5ce7f9964442)
+  ![Image](https://github.com/user-attachments/assets/d6879a77-cc31-41a0-a3f9-ddd7c7a1191d)
   PHOTO-2 :
-![Image](https://github.com/user-attachments/assets/72aa8aa6-c9e9-4838-aa8c-9a1b0715fb11)
-  PHOTO-3 : 
-![Image](https://github.com/user-attachments/assets/a370b5ca-a720-4bfd-bfe3-b2594baabbeb)
+![Image](https://github.com/user-attachments/assets/dd123076-e638-4152-b9d5-b75d06acc06c)
+  PHOTO-3 :
+![Image](https://github.com/user-attachments/assets/df9dc1c9-44d7-48b2-b2bf-7f9838843e73)
  
  
 
