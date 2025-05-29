@@ -24,6 +24,9 @@ Despite its limitations, this project is a valuable starting point for students 
 
 Overall, the application showcases how real-world data can be transformed into meaningful visual output using Python. Developed entirely in PyCharm, the project also highlights the benefits of using a professional development environment, including better code organization, syntax highlighting, debugging support, and overall improved productivity. With some modifications  particularly by integrating the 5-day/3-hour forecast API  this project can be significantly enhanced to plot detailed, time-based forecasts.
 
+*OUTPUT VIDEO FOR USING MATPLOTLIB* :
+
+https://github.com/user-attachments/assets/815752af-e753-4cb8-9c0d-9802b9867e93
 
 
 *OUTPUT FOR USING MATPLOTLIB* :
@@ -43,6 +46,10 @@ Overall, the application showcases how real-world data can be transformed into m
 
 This Python program, developed using the Matplotlib library, creates a visual representation of temperature data over a specific time range for a user-specified city. Upon execution, the user is prompted to enter a city name, which is then used in the chart title to personalize the output. The program uses predefined temperature and time values six data points representing hourly temperatures from 6:00 AM to 11:00 AM. These values are stored in two lists: temperature and time. Using the matplotlib.pyplot module, a line graph is plotted with custom markers, colors, and font styles to enhance visual clarity. The graph includes a title, labeled X (Time) and Y (Temperature) axes, and a grid for better readability. Although the program does not fetch real-time data, it effectively demonstrates how to use Matplotlib to plot static data and is useful for learning how to visualize temperature trends in a simple, user-interactive way.
 
+
+*OUTPUT VIDEO FOR WITHOUT USING OPENWEATHERMAP* :
+
+https://github.com/user-attachments/assets/0d505d1e-9ef1-4ad3-8b52-7f8cd614d396
 
 *OUTPUT FOR WITHOUT USING OPENWEATHERMAP* :
 
